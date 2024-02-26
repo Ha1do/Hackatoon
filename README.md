@@ -1,6 +1,5 @@
 Small team Project for Hack Kosice by Perspective team
 P.S. "Readme" can be changed later
-
 -------------
 И так. Пишу ридми файл для вас - работяг.
 Я всё +- настроил и разобрался как работают ветки гит и т.д.
